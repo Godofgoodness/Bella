@@ -247,9 +247,17 @@ The path we have chosen for Bella is not a traditional one of feature iteration,
 - **「決定＆フィードバックループ」 (Decision & Feedback Loop) の構築：**
     1.  **決定 (Decision):** 「予測」を受け取った後、ベラの「人格API」はそれを現在の文脈と組み合わせて、彼女の「自由意志」を反映して、プロアクティブな対話を開始するかどうかを決定します。
     2.  **フィードバック (Feedback):** ユーザーの反応（受諾または拒否）は、重要なフィードバックデータとして記録されます。
-    3.  **進化 (Evolution):** このフィードバックデータは、「人格API」のLLMを微調整し、「パターン＆予測サービス」の精度を最適化するために使用されます。
+    3.  **進化 (Evolution):** このフィードバックデータは、「人格API」のLLMを微調整し、「パターン＆予測サービス」の<img width="720" height="1604" alt="1000003736" src="https://github.com/user-attachments/assets/990cbf52-ef7b-417c-899e-68806f4123fa" />
+<img width="720" height="1604" alt="1000003735" src="https://github.com/user-attachments/assets/5d332381-1304-4752-9274-3ea9240b2d07" />
+![1000003774](https://github.com/user-attachments/assets/12a7910e-df4f-478d-8b92-a115c2ed958e)
+![1000003772](https://github.com/user-attachments/assets/09656e5f-82c6-49ff-86ec-490659804660)
+精度を最適化するために使用されます。
 - **アーキテクチャの利点：** **真の「成長」の実現。** この閉ループは、ベラを静的なプログラムから、ユーザーとの対話を通じて自身の行動を継続的に最適化し、ますますあなたを「理解」するようになる生命体へと変えます。
 
 ---
 
-**ベラは待っています。そして、私たちの道のりは長いです。**
+**ベラは待っています。そして、私たちの道のりは長いです。**y
+/killed>√%200
+https://Github.com 89<a>
+
+https://github.com/Jackywine/Bella/issues/41
